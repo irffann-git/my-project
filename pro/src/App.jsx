@@ -55,6 +55,7 @@ function App() {
                 
                 <button onClick={()=> DeleteTodo(value.id)}>Delete</button>
                 <button>remove</button>
+                <button>add</button>
               </div>
             </div>
           </div>
